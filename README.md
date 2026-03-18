@@ -22,8 +22,6 @@ cargo build --release
 
 ## Data
 
-Two data archives are provided in the [v1.0.0 release](https://github.com/Anon-Account-ChristDeco/RustcGenie/releases/tag/v1.0.0):
-
 | Archive | Contents | Used by |
 |---------|----------|---------|
 | `seeds_250902.zip` | 26,954 Rust seed programs (rustc test suite + glacier2 fixed ICE cases) | `ice-perfeval-blackbox` (both icemaker and genie) |
